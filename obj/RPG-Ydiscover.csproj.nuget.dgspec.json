@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\najma\\OneDrive\\Bureau\\ydiscover\\RPG-Ydiscover\\RPG-Ydiscover.csproj": {}
+    "C:\\Users\\Utilisateur\\Desktop\\ynov\\b2\\Ydiscovers\\RPG-Ydiscover\\RPG-Ydiscover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\najma\\OneDrive\\Bureau\\ydiscover\\RPG-Ydiscover\\RPG-Ydiscover.csproj": {
+    "C:\\Users\\Utilisateur\\Desktop\\ynov\\b2\\Ydiscovers\\RPG-Ydiscover\\RPG-Ydiscover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\najma\\OneDrive\\Bureau\\ydiscover\\RPG-Ydiscover\\RPG-Ydiscover.csproj",
+        "projectUniqueName": "C:\\Users\\Utilisateur\\Desktop\\ynov\\b2\\Ydiscovers\\RPG-Ydiscover\\RPG-Ydiscover.csproj",
         "projectName": "RPG-Ydiscover",
-        "projectPath": "C:\\Users\\najma\\OneDrive\\Bureau\\ydiscover\\RPG-Ydiscover\\RPG-Ydiscover.csproj",
-        "packagesPath": "C:\\Users\\najma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\najma\\OneDrive\\Bureau\\ydiscover\\RPG-Ydiscover\\obj\\",
+        "projectPath": "C:\\Users\\Utilisateur\\Desktop\\ynov\\b2\\Ydiscovers\\RPG-Ydiscover\\RPG-Ydiscover.csproj",
+        "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilisateur\\Desktop\\ynov\\b2\\Ydiscovers\\RPG-Ydiscover\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\najma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Utilisateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +39,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
