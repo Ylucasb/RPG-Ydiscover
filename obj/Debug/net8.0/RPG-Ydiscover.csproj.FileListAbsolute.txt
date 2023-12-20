@@ -1,0 +1,15 @@
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\bin\Debug\net8.0\RPG-Ydiscover.exe
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\bin\Debug\net8.0\RPG-Ydiscover.deps.json
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\bin\Debug\net8.0\RPG-Ydiscover.runtimeconfig.json
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\bin\Debug\net8.0\RPG-Ydiscover.dll
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\bin\Debug\net8.0\RPG-Ydiscover.pdb
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.AssemblyInfoInputs.cache
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.AssemblyInfo.cs
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.csproj.CoreCompileInputs.cache
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.sourcelink.json
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.dll
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\refint\RPG-Ydiscover.dll
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.pdb
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\RPG-Ydiscover.genruntimeconfig.cache
+C:\Users\najma\OneDrive\Bureau\ydiscover\RPG-Ydiscover\obj\Debug\net8.0\ref\RPG-Ydiscover.dll
