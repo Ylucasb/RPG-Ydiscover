@@ -27,16 +27,18 @@ namespace RPGYdiscover
             get {return _lifePoint;}
             set {_lifePoint = value;}
         }
+        public Classe = "";
 
-        public Character(string name)
+        public Character(string name, string classe)
         {
             Name = name;
+            Classe = classe;
             var cs = "Host=localhost;Username=postgres;Password=Lucas12112004!!;Database=RPG-Ydiscovers";
             using var con = new NpgsqlConnection(cs);
             con.Open();
             string sql = "SELECT * FROM stats WHERE name = @Name";
             using var cmd = new NpgsqlCommand(sql, con);
-            cmd.Parameters.AddWithValue("@Name", Name);
+            cmd.Parameters.AddWithValue("@Name", classe);
             using NpgsqlDataReader rdr = cmd.ExecuteReader();
             while (rdr.Read())
             {
